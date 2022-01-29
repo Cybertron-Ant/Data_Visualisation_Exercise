@@ -1,7 +1,6 @@
 
+Clean_Transform_and_Integrate
 
 
-Locate the Dataset “Jamaica Tourism – Attractions” that is shared with you in your Google Drive, and open it in Google Sheets
-
-Since the file was downloaded as an Excel spreadsheet, make a copy and save it as a Google Sheet “Jamaica Tourism – attractions (visualization)”
+Freeze the 1st row and 1st column so you can maintain visibility of the column headers and rows while scrolling the spreadsheet
 
